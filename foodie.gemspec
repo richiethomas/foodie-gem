@@ -33,6 +33,8 @@ Gem::Specification.new do |spec|
 
   # Uncomment to register a new dependency of your gem
   spec.add_development_dependency "rspec", "~> 3.2"
+  spec.add_development_dependency "byebug"#, "~> 3.2"
+  spec.add_dependency "activesupport", "~> 4.2.0"
 
   # For more information and examples about making a new gem, check out our
   # guide at: https://bundler.io/guides/creating_gem.html
