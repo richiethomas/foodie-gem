@@ -1,6 +1,6 @@
 require 'active_support/inflector'
 
-module Foodie
+module RichieFoodie
   class Food
 
     def self.pluralize(word)

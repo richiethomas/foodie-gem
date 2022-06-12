@@ -1,6 +1,6 @@
 require 'thor/group'
 
-module Foodie
+module RichieFoodie
   module Generators
     class Recipe < Thor::Group
       include Thor::Actions

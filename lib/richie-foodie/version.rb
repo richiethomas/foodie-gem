@@ -1,5 +1,5 @@
 # frozen_string_literal: true
 
-module Foodie
+module RichieFoodie
   VERSION = "0.2.0"
 end
