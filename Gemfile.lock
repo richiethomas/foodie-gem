@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    foodie (0.1.0)
+    richie-foodie (0.1.0)
       activesupport (~> 4.2.0)
       thor
 
@@ -86,8 +86,8 @@ DEPENDENCIES
   aruba
   byebug (~> 11.1)
   cucumber
-  foodie!
   rake (~> 13.0)
+  richie-foodie!
   rspec (~> 3.0)
 
 BUNDLED WITH

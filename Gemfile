@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-# Specify your gem's dependencies in foodie.gemspec
+# Specify your gem's dependencies in richie-foodie.gemspec
 gemspec
 
 gem "rake", "~> 13.0"
